@@ -69,13 +69,6 @@ This project helps to:
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard](Dashboard images/dashboard1.png)
-
-
----
-
 ## 🚀 Conclusion
 RetailPulse enables stakeholders to gain actionable insights into sales performance, optimize product strategies, and improve overall profitability using interactive visual analytics.
 
